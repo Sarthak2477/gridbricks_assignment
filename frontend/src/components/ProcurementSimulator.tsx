@@ -206,9 +206,7 @@ export const ProcurementSimulator: React.FC<ProcurementSimulatorProps> = ({
             <span className="text-xs font-bold text-[#d1fae5] tracking-wide">
               Thermal / Market Needed
             </span>
-            <div className="w-8 h-8 rounded-full border border-white/20 bg-white/10 flex items-center justify-center text-white">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
+             
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-white tracking-tight">
@@ -227,9 +225,7 @@ export const ProcurementSimulator: React.FC<ProcurementSimulatorProps> = ({
             <span className="text-xs font-bold text-[#4b5563] tracking-wide">
               Wind Coverage Ratio
             </span>
-            <div className="w-8 h-8 rounded-full border border-slate-200 bg-white flex items-center justify-center text-[#111827]">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
+             
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-[#111827] tracking-tight">
@@ -247,9 +243,7 @@ export const ProcurementSimulator: React.FC<ProcurementSimulatorProps> = ({
             <span className="text-xs font-bold text-[#4b5563] tracking-wide">
               Total Day Demand
             </span>
-            <div className="w-8 h-8 rounded-full border border-slate-200 bg-white flex items-center justify-center text-[#111827]">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
+             
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-[#111827] tracking-tight">
@@ -268,9 +262,7 @@ export const ProcurementSimulator: React.FC<ProcurementSimulatorProps> = ({
             <span className="text-xs font-bold text-[#4b5563] tracking-wide">
               Estimated Market Spend
             </span>
-            <div className="w-8 h-8 rounded-full border border-slate-200 bg-white flex items-center justify-center text-[#111827]">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
+             
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-[#111827] tracking-tight">

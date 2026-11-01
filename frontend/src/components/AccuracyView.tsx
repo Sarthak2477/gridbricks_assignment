@@ -141,9 +141,6 @@ export const AccuracyView: React.FC<AccuracyViewProps> = ({
             <span className="text-xs font-bold text-[#d1fae5] tracking-wide">
               MAE (Mean Abs Error)
             </span>
-            <div className="w-8 h-8 rounded-full border border-white/20 bg-white/10 flex items-center justify-center text-white">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-white tracking-tight">
@@ -162,9 +159,6 @@ export const AccuracyView: React.FC<AccuracyViewProps> = ({
             <span className="text-xs font-bold text-[#4b5563] tracking-wide">
               RMSE (Quadratic Penalty)
             </span>
-            <div className="w-8 h-8 rounded-full border border-slate-200 bg-white flex items-center justify-center text-[#111827]">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-[#111827] tracking-tight">
@@ -183,9 +177,7 @@ export const AccuracyView: React.FC<AccuracyViewProps> = ({
             <span className="text-xs font-bold text-[#4b5563] tracking-wide">
               Forecast Bias
             </span>
-            <div className="w-8 h-8 rounded-full border border-slate-200 bg-white flex items-center justify-center text-[#111827]">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
+             
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-[#111827] tracking-tight">
@@ -206,9 +198,7 @@ export const AccuracyView: React.FC<AccuracyViewProps> = ({
             <span className="text-xs font-bold text-[#4b5563] tracking-wide">
               P90 Reserve Margin
             </span>
-            <div className="w-8 h-8 rounded-full border border-slate-200 bg-white flex items-center justify-center text-[#111827]">
-              <ArrowUpRight className="w-4 h-4" />
-            </div>
+             
           </div>
           <div className="my-4">
             <span className="text-4xl font-extrabold text-[#111827] tracking-tight">
