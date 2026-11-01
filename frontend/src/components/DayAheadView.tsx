@@ -9,7 +9,7 @@ import {
   ResponsiveContainer,
   ReferenceLine,
 } from 'recharts';
-import { ArrowUpRight, Download, Table, Eye, Wind } from 'lucide-react';
+import {   Download, Table, Eye, Wind } from 'lucide-react';
 import { ForecastResponse } from '../types';
 
 interface DayAheadViewProps {

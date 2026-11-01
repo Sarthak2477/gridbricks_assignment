@@ -1,5 +1,4 @@
 import React from 'react';
-import { HelpCircle } from 'lucide-react';
 
 interface HeaderProps {
   onOpenMethodology: () => void;

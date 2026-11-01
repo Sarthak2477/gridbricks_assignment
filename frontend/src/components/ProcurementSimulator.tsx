@@ -8,7 +8,7 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from 'recharts';
-import { ArrowUpRight, ShieldCheck } from 'lucide-react';
+import {   ShieldCheck } from 'lucide-react';
 import { ForecastResponse, ErrorMetrics } from '../types';
 
 interface ProcurementSimulatorProps {

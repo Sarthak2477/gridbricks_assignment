@@ -12,7 +12,7 @@ import {
   Legend,
   ReferenceLine,
 } from 'recharts';
-import { ArrowUpRight, Calendar, Loader2 } from 'lucide-react';
+import { Calendar, Loader2 } from 'lucide-react';
 import { ComparisonResponse, ErrorMetrics } from '../types';
 
 interface AccuracyViewProps {
